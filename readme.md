@@ -20,21 +20,23 @@ Tambien se hace uso de bibliotecas como Lombok y QueryDSL
  ![screenshot](./docs/images/config-netbeans-1.png)
  ![screenshot](./docs/images/config-netbeans-2.png)
 
- 3. Hacer click derecho en el proyecto y seleccionar la opción build o dar click al boton del martillo
+ 2. Hacer click derecho en el proyecto y seleccionar la opción build o dar click al boton del martillo
     
  ![screenshot](./docs/images/config-netbeans-3.png)
 
- 5. Abrir el Archivo **TablaConBotones.java** dentro de la carpeta */utils* luego seleccionar Tools y Add to palette
+ 3. Abrir el Archivo **TablaConBotones.java** dentro de la carpeta */utils* luego seleccionar Tools y Add to palette
     
  ![screenshot](./docs/images/config-netbeans-4.png)
 
- 5. Seleccionar Swing Containers y darle al botón de OK
+ 4. Seleccionar Swing Containers y darle al botón de OK
     
  ![screenshot](./docs/images/config-netbeans-5.png)
 
- 6. Volver a realizar el paso 3 y 4 pero ahora con el archivo **SelectorFecha.java**
+ 5. Volver a realizar el paso 3 y 4 pero ahora con el archivo **SelectorFecha.java**
 
- 7. Ejecutar el archivo AsistenciasApplication.java
+ 6. Ejecutar el archivo AsistenciasApplication.java
+
+Ingresar con el usuario **admin** y con la clave **123456**.
 
 # Estructura del proyecto
 
