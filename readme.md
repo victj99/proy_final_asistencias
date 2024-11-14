@@ -23,10 +23,10 @@ Tambien se hace uso de bibliotecas como Lombok y QueryDSL
  ![screenshot](./docs/images/config-netbeans-3.png)
 
  3. Abrir el Archivo **TablaConBotones.java** dentro de la carpeta */utils* luego seleccionar Tools y Add to palette
- ![screenshot](./docs/images/config-netbeans-3.png)
+ ![screenshot](./docs/images/config-netbeans-4.png)
 
  4. Seleccionar Swing Containers y darle al botón de OK
- ![screenshot](./docs/images/config-netbeans-4.png)
+ ![screenshot](./docs/images/config-netbeans-5.png)
 
  5. Volver a realizar el paso 3 y 4 pero ahora con el archivo **SelectorFecha.java**
 
