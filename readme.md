@@ -15,7 +15,7 @@ Tambien se hace uso de bibliotecas como Lombok y QueryDSL
  - Tener instalado Netbeans desde la versión 21 en adelante
 # Configuración en Netbeans
 
- 1. Clonar y abrir el proyecto en netbeans (recomendado la version 21 en adelante)
+ 1. Clonar o descargar el zip y abrir el proyecto en netbeans (recomendado la version 21 en adelante)
  ![screenshot](./docs/images/config-netbeans-1.png)
  ![screenshot](./docs/images/config-netbeans-2.png)
 
